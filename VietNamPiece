@@ -1,3 +1,5 @@
 if game.PlaceId == 4587545091 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/first2553/Old-World-Viet-nam-piece/main/README.md"))()
+elseif game.PlaceId == 7258239416 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/first2553/New-World-Viet-nam-piece/main/README.md")()
 end
