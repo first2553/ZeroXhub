@@ -8,4 +8,6 @@ elseif game.PlaceId == 7261261021 then
 loadstring(game:HttpGet"https://raw.githubusercontent.com/first2553/Raging-seas/main/README.md")()
 elseif game.PlaceId == 10374645170 then
 loadstring(game:HttpGet"https://raw.githubusercontent.com/first2553/One-piece-battle/main/README.md")()
+elseif game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/first2553/BloxFruitsItem/main/README.md")()
 end
